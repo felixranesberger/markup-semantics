@@ -1,15 +1,5 @@
 # markup-semantics
 
-To install dependencies:
+All files inside the `tests` folder are used to test markup semantics.
 
-```bash
-npm install
-```
-
-To run:
-
-```bash
-npm run test
-```
-
-This project was created using `bun init` in bun v1.1.20. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+Make sure to name the files with `xxx.test.ts`
